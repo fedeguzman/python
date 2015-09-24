@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Example how username and password works in a database
+Example to how username and password works in a database
 
 This python file we are hashing a password in order to store it in a database (dictionary). In this python module we
 are using a salt.
